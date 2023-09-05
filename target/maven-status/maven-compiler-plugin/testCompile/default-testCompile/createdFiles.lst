@@ -1,0 +1,5 @@
+com/iyzico/challenge/service/SeatControllerIntegrationTest.class
+com/iyzico/challenge/service/IyzicoPaymentServiceTest.class
+com/iyzico/challenge/service/FlightControllerUnitTest.class
+com/iyzico/challenge/service/FlightControllerIntegrationTest.class
+com/iyzico/challenge/service/BookingControllerIntegrationTest.class
